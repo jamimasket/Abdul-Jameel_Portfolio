@@ -15,10 +15,10 @@
 ## Senior Accountant @ MELEPURAKKAL MINERALS AND FOOD PRODUCTS 
   ## • Kerala, India
 
-Streamlined the cash receipts, accounts payable, and cash management processes, enhancingaccuracy by 10% and reducing processing time by 15%.
+• Streamlined the cash receipts, accounts payable, and cash management processes, enhancingaccuracy by 10% and reducing processing time by 15%.
 
-## Senior Accountant @ Al Rabie Saudi Foods Co. Riyadh, Saudi Arabia
- ## - Accounts Payable
+## Senior Accountant - Accounts Payable @ Al Rabie Saudi Foods Co. 
+ ## Riyadh, Saudi Arabia
 
 • Ensured 100% compliance with accounting standards and regulations, reducing the risk of auditfindings
 
