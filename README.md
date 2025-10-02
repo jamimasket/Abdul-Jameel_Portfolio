@@ -16,6 +16,7 @@ Senior Accountant @ Al Rabie Saudi Foods Co. Riyadh, Saudi Arabia
 - Accounts Payable
 
 Internal Auditor @ RANJITH KARTHIKEYAN ASSOCIATES • Kerala, India
+
 ACCOUNTS ASSISTANT @ S.R ASSOCIATES • Kerala, India
 
 
