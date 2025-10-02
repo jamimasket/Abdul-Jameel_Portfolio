@@ -4,8 +4,8 @@
 ## Data Analytics from Rows and Columns 
  ## • Calicut, Kerala, India • 06/2025 - 09/2025
 
-## Masters in Business Administration finance from Maulana Azad National Urdu University
- ## • Hyderabad, India
+## Masters in Business Administration finance 
+## Maulana Azad National Urdu University • Hyderabad, India
 
 ## Bachelor of Commerce
  # University of Calicut • Kerala, India
