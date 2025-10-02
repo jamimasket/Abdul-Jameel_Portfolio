@@ -1,25 +1,25 @@
 # Aspiring Accounting Professional
 
 ### Education 
-Data Analytics from Rows and Columns 
-• Calicut, Kerala, India • 06/2025 - 09/2025
+## Data Analytics from Rows and Columns 
+ ## • Calicut, Kerala, India • 06/2025 - 09/2025
 
-Masters in Business Administration finance from Maulana Azad National Urdu University
-• Hyderabad, India
+## Masters in Business Administration finance from Maulana Azad National Urdu University
+ ## • Hyderabad, India
 
-Bachelor of Commerce
-University of Calicut
-• Kerala, India
+## Bachelor of Commerce
+ # University of Calicut • Kerala, India
 
 ### Work Experience
-Senior Accountant @ MELEPURAKKAL MINERALS AND FOOD PRODUCTS 
-• Kerala, India
+
+## Senior Accountant @ MELEPURAKKAL MINERALS AND FOOD PRODUCTS 
+  ## • Kerala, India
 
 Streamlined the cash receipts, accounts payable, and cash management processes, enhancingaccuracy by 10% and reducing processing time by 15%.
 
-Senior Accountant @ Al Rabie Saudi Foods Co. Riyadh, Saudi Arabia
-- Accounts Payable
-- 
+## Senior Accountant @ Al Rabie Saudi Foods Co. Riyadh, Saudi Arabia
+ ## - Accounts Payable
+
 • Ensured 100% compliance with accounting standards and regulations, reducing the risk of auditfindings
 
 • Reduced processing time and increased disbursement accuracy by streamlining the vendorpayment cycle.
@@ -34,7 +34,7 @@ Senior Accountant @ Al Rabie Saudi Foods Co. Riyadh, Saudi Arabia
 
 • maintaining a 0% penalty record, minimising the risk of non-compliance and the accuratesubmission of all tax files.
 
-Internal Auditor @ RANJITH KARTHIKEYAN ASSOCIATES • Kerala, India
+##  Internal Auditor @ RANJITH KARTHIKEYAN ASSOCIATES • Kerala, India
 
 • Inspected accounting records and systems, ensuring 100% accuracy and compliance withfinancial regulations and reducing errors by 15%.
 
@@ -46,7 +46,7 @@ Internal Auditor @ RANJITH KARTHIKEYAN ASSOCIATES • Kerala, India
 
 • Carried out process improvements that reduced reporting time by 10% - 15% and enhancedoperational efficiency.
 
-Accounts Assistant @ S.R ASSOCIATES • Kerala, India
+## Accounts Assistant @ S.R ASSOCIATES • Kerala, India
 
 • Supported month-end and year-end closings, which resulted in achieving a 100% on-timefinancial reporting with no compliance concerns.
 
@@ -57,7 +57,7 @@ Accounts Assistant @ S.R ASSOCIATES • Kerala, India
 • Regulatory compliance was ensured by organising and maintaining 100% audit-readydocumentation.
 
 ### Projects
-Accounts Payable
+## Accounts Payable
 
 • An interactive dashboard was created to track Total Paid (0.67M), Total Due Outstanding (1.42M),and Partially Paid (0.75M).
 
@@ -70,12 +70,12 @@ Accounts Payable
 • A Line chart was used to monitor monthly payment trends and variations in outstanding versusopen invoices.
 
 ### Skills
-Technical Skills:
+# Technical Skills:
 
-Accounts Payable, Audit Coordination, Data analysis, Letter of Guarantee, MS Excel, Office Administration, Power BI, SQL,Tableau
+ Accounts Payable, Audit Coordination, Data analysis, Letter of Guarantee, MS Excel, Office Administration, Power BI, SQL,Tableau
 
-Soft Skills:
+# Soft Skills:
 
-Communication, Team Work
+ Communication, Team Work
 
 
