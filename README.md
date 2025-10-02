@@ -1,9 +1,9 @@
 # Aspiring Accounting Professional
 
-### Summary 
+## Summary 
 Aspiring Accounting Professional with 4 years of GCC experience. Proficient in overseeing accountspayable, month-end closing processes, and preparing comprehensive financial statements. Recentlyupskilled in data analytics tools, including Excel (advanced), Power BI, Tableau, and SQL, enabling thecreation of interactive dashboards and actionable insights.
 
-### Education 
+## Education 
 ## Data Analytics 
 ## Rows and Columns • Calicut, Kerala, India • 06/2025 - 09/2025
 
@@ -11,7 +11,7 @@ Aspiring Accounting Professional with 4 years of GCC experience. Proficient in o
 ## Maulana Azad National Urdu University • Hyderabad, India
 
 ## Bachelor of Commerce
- # University of Calicut • Kerala, India
+## University of Calicut • Kerala, India
 
 ### Work Experience
 
