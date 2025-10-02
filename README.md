@@ -3,17 +3,17 @@
 ## Summary 
 Aspiring Accounting Professional with 4 years of GCC experience. Proficient in overseeing accountspayable, month-end closing processes, and preparing comprehensive financial statements. Recentlyupskilled in data analytics tools, including Excel (advanced), Power BI, Tableau, and SQL, enabling thecreation of interactive dashboards and actionable insights.
 
-## Education 
+# Education 
 ## Data Analytics 
-## Rows and Columns • Calicut, Kerala, India • 06/2025 - 09/2025
+### Rows and Columns • Calicut, Kerala, India • 06/2025 - 09/2025
 
 ## Masters in Business Administration - finance 
-## Maulana Azad National Urdu University • Hyderabad, India
+### Maulana Azad National Urdu University • Hyderabad, India
 
 ## Bachelor of Commerce
-## University of Calicut • Kerala, India
+### University of Calicut • Kerala, India
 
-### Work Experience
+# Work Experience
 
 ## Senior Accountant @ MELEPURAKKAL MINERALS AND FOOD PRODUCTS 
   ## • Kerala, India
@@ -59,7 +59,7 @@ Aspiring Accounting Professional with 4 years of GCC experience. Proficient in o
 
 • Regulatory compliance was ensured by organising and maintaining 100% audit-readydocumentation.
 
-### Projects
+# Projects
 ## Accounts Payable
 
 • An interactive dashboard was created to track Total Paid (0.67M), Total Due Outstanding (1.42M),and Partially Paid (0.75M).
@@ -72,12 +72,12 @@ Aspiring Accounting Professional with 4 years of GCC experience. Proficient in o
 
 • A Line chart was used to monitor monthly payment trends and variations in outstanding versusopen invoices.
 
-### Skills
-# Technical Skills:
+# Skills
+### Technical Skills:
 
  Accounts Payable, Audit Coordination, Data analysis, Letter of Guarantee, MS Excel, Office Administration, Power BI, SQL,Tableau
 
-# Soft Skills:
+### Soft Skills:
 
  Communication, Team Work
 
