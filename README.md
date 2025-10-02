@@ -1,27 +1,27 @@
-# Aspiring Accounting Professional
+## Aspiring Accounting Professional
 
 ## Summary 
 Aspiring Accounting Professional with 4 years of GCC experience. Proficient in overseeing accountspayable, month-end closing processes, and preparing comprehensive financial statements. Recentlyupskilled in data analytics tools, including Excel (advanced), Power BI, Tableau, and SQL, enabling thecreation of interactive dashboards and actionable insights.
 
 # Education 
-## Data Analytics 
-### Rows and Columns • Calicut, Kerala, India • 06/2025 - 09/2025
+### Data Analytics 
+#### Rows and Columns • Calicut, Kerala, India • 06/2025 - 09/2025
 
-## Masters in Business Administration - finance 
-### Maulana Azad National Urdu University • Hyderabad, India
+### Masters in Business Administration - finance 
+#### Maulana Azad National Urdu University • Hyderabad, India
 
-## Bachelor of Commerce
-### University of Calicut • Kerala, India
+### Bachelor of Commerce
+#### University of Calicut • Kerala, India
 
 # Work Experience
 
-## Senior Accountant @ MELEPURAKKAL MINERALS AND FOOD PRODUCTS 
-  ## • Kerala, India
+### Senior Accountant @ MELEPURAKKAL MINERALS AND FOOD PRODUCTS 
+  ### • Kerala, India
 
 • Streamlined the cash receipts, accounts payable, and cash management processes, enhancingaccuracy by 10% and reducing processing time by 15%.
 
-## Senior Accountant - Accounts Payable @ Al Rabie Saudi Foods Co. 
- ## Riyadh, Saudi Arabia
+### Senior Accountant - Accounts Payable @ Al Rabie Saudi Foods Co. 
+ ### Riyadh, Saudi Arabia
 
 • Ensured 100% compliance with accounting standards and regulations, reducing the risk of auditfindings
 
@@ -37,7 +37,7 @@ Aspiring Accounting Professional with 4 years of GCC experience. Proficient in o
 
 • maintaining a 0% penalty record, minimising the risk of non-compliance and the accuratesubmission of all tax files.
 
-##  Internal Auditor @ RANJITH KARTHIKEYAN ASSOCIATES • Kerala, India
+###  Internal Auditor @ RANJITH KARTHIKEYAN ASSOCIATES • Kerala, India
 
 • Inspected accounting records and systems, ensuring 100% accuracy and compliance withfinancial regulations and reducing errors by 15%.
 
@@ -49,7 +49,7 @@ Aspiring Accounting Professional with 4 years of GCC experience. Proficient in o
 
 • Carried out process improvements that reduced reporting time by 10% - 15% and enhancedoperational efficiency.
 
-## Accounts Assistant @ S.R ASSOCIATES • Kerala, India
+### Accounts Assistant @ S.R ASSOCIATES • Kerala, India
 
 • Supported month-end and year-end closings, which resulted in achieving a 100% on-timefinancial reporting with no compliance concerns.
 
@@ -59,8 +59,8 @@ Aspiring Accounting Professional with 4 years of GCC experience. Proficient in o
 
 • Regulatory compliance was ensured by organising and maintaining 100% audit-readydocumentation.
 
-# Projects
-## Accounts Payable
+## Projects
+### Accounts Payable
 
 • An interactive dashboard was created to track Total Paid (0.67M), Total Due Outstanding (1.42M),and Partially Paid (0.75M).
 
@@ -72,12 +72,12 @@ Aspiring Accounting Professional with 4 years of GCC experience. Proficient in o
 
 • A Line chart was used to monitor monthly payment trends and variations in outstanding versusopen invoices.
 
-# Skills
-### Technical Skills:
+## Skills
+#### Technical Skills:
 
  Accounts Payable, Audit Coordination, Data analysis, Letter of Guarantee, MS Excel, Office Administration, Power BI, SQL,Tableau
 
-### Soft Skills:
+#### Soft Skills:
 
  Communication, Team Work
 
