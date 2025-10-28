@@ -102,7 +102,7 @@ Aspiring Accounting Professional with 4 years of GCC experience. Proficient in o
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:info.jami944@gmail.com">info.jami944@gmail@gmail.com</a></td>
+      <td><a href="mailto:jamimasket@gmail.com">jamimasket@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
